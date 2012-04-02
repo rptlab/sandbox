@@ -1,0 +1,4 @@
+total 8
+drwxrwxr-x 2 ricardo ricardo 4096 2012-04-02 12:24 ./
+drwxrwxr-x 5 ricardo ricardo 4096 2012-04-02 12:23 ../
+-rw-rw-r-- 1 ricardo ricardo    0 2012-04-02 12:24 dir.txt
