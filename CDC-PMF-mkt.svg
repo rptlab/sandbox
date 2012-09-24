@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg height="240" preserveAspectRatio="xMinYMin meet" version="1.0" viewBox="0 0 266 240" width="266" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+     <title>...</title>
+     <desc>...</desc>
+     <clipPath id="clip">
+          <rect height="240" width="266" x="0" y="0"/>
+     </clipPath>
+     <g id="group" style="clip-path: url(#clip)" transform="scale(1,-1) translate(0,-240)">
+          <g transform="">
+               <g transform="">
+                    <g transform="">
+                         <rect height="190" style="stroke-width: 1; stroke-linecap: butt; stroke: none; fill: rgb(91%,94%,84%);" width="266" x="0" y="50"/>
+                    </g>
+                    <path d="M 0.000000,50.000000 L 266.000000,50.000000 Z" style="stroke-linecap: butt; stroke-width: 1; stroke: rgb(86%,86%,87%);"/>
+                    <path d="M 0.000000,88.000000 L 266.000000,88.000000 Z" style="stroke-width: 1; stroke-linecap: butt; stroke: rgb(86%,86%,87%);"/>
+                    <path d="M 0.000000,126.000000 L 266.000000,126.000000 Z" style="stroke-linecap: butt; stroke-width: 1; stroke: rgb(86%,86%,87%);"/>
+                    <path d="M 0.000000,164.000000 L 266.000000,164.000000 Z" style="stroke-width: 1; stroke-linecap: butt; stroke: rgb(86%,86%,87%);"/>
+                    <path d="M 0.000000,202.000000 L 266.000000,202.000000 Z" style="stroke-linecap: butt; stroke-width: 1; stroke: rgb(86%,86%,87%);"/>
+                    <path d="M 0.000000,240.000000 L 266.000000,240.000000 Z" style="stroke-width: 1; stroke-linecap: butt; stroke: rgb(86%,86%,87%);"/>
+                    <g transform="">
+                         <rect height="64.6" style="stroke-linecap: butt; stroke-width: 0; stroke: none; fill: rgb(58%,70%,23%);" width="18.0" x="17.6" y="50.0"/>
+                         <rect height="159.6" style="stroke-width: 0; stroke-linecap: butt; stroke: none; fill: rgb(58%,70%,23%);" width="18.0" x="70.8" y="50.0"/>
+                         <rect height="148.2" style="stroke-linecap: butt; stroke-width: 0; stroke: none; fill: rgb(58%,70%,23%);" width="18.0" x="124.0" y="50.0"/>
+                         <rect height="11.4" style="stroke-width: 0; stroke-linecap: butt; stroke: none; fill: rgb(58%,70%,23%);" width="18.0" x="177.2" y="50.0"/>
+                         <g transform="">
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 26.600000, 122.600000)">
+                                   <text style="font-size: 10px; font-family: Verdana-bold; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-13.4692382812" y="-4.0">17%</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 79.800000, 217.600000)">
+                                   <text style="font-size: 10px; font-family: Verdana-bold; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-13.4692382812" y="-4.0">42%</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 133.000000, 206.200000)">
+                                   <text style="font-size: 10px; font-family: Verdana-bold; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-13.4692382812" y="-4.0">39%</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 186.200000, 69.400000)">
+                                   <text style="font-size: 10px; font-family: Verdana-bold; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-9.91455078125" y="-4.0">3%</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 239.400000, 58.000000)">
+                                   <text style="font-size: 10px; font-family: Verdana-bold; fill: rgb(0%,0%,0%);" transform="translate(0,-8) scale(1,-1)" x="-9.91455078125" y="-4.0">0%</text>
+                              </g>
+                         </g>
+                    </g>
+                    <g transform="">
+                         <g transform="">
+                              <path d="M 0.000000,50.000000 L 266.000000,50.000000 Z" style="stroke-width: 1; stroke-linecap: butt; stroke: rgb(40%,40%,40%);"/>
+                         </g>
+                         <g transform=""/>
+                         <g transform="">
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 26.600000, 43.000000)">
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-21.0205078125" y="-10">&lt;$750M</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 79.800000, 43.000000)">
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-19.19921875" y="-10">$750M-</text>
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-44) scale(1,-1)" x="-14.7827148438" y="-22">$2.5B</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 133.000000, 43.000000)">
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-17.0532226562" y="-10">$2.5B-</text>
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-44) scale(1,-1)" x="-9.78515625" y="-22">$5B</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 186.200000, 43.000000)">
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-12.0556640625" y="-10">$5B-</text>
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-44) scale(1,-1)" x="-12.9638671875" y="-22">$15B</text>
+                              </g>
+                              <g transform=" matrix(1.000000, 0.000000, 0.000000, 1.000000, 239.400000, 43.000000)">
+                                   <text style="font-size: 10px; font-family: Verdana; fill: rgb(0%,0%,0%);" transform="translate(0,-20) scale(1,-1)" x="-17.0556640625" y="-10">&gt;$15B</text>
+                              </g>
+                         </g>
+                    </g>
+                    <g transform=""/>
+               </g>
+               <text style="font-size: 10px; font-family: Verdana-bold; fill: rgb(12%,20%,38%);" transform="translate(0,4) scale(1,-1)" x="78.2099609375" y="2">Percent of Portfolio</text>
+          </g>
+     </g>
+</svg>
